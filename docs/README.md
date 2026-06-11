@@ -1,30 +1,28 @@
 # Tarea 03 - Pieza narrativa en HTML
 
 
-## Farah Jadue
+Farah Jadue
 
 
 ## Descripción
 
 
-Para esta tarea desarrollé una pieza narrativa en HTML basada en la evolución de la natalidad adolescente en chile.
+Para esta tarea desarrollé una pieza narrativa en HTML basada en la evolución de la natalidad adolescente en Chile.
 
 La página contiene:
 
 - Una crónica periodística.
 
-- Una visualización de datos.
+- Una visualización de datos con una imágen del gráfico como apoyo visual.
 
-- Una imágen del gráfico como apoyo visual.
-
-- Enlace de la fuente utilizada de la información original.
+- Un enlace de la fuente original de la información utilizada.
 
 ## Proceso
+Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriorimente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'div', 'header' y 'footer'.
 
-Primero estructuré el contenido de la crónica de la entrega pasada mediante etiquetas HTML, incorporando encabezado, párrafos, imágenes, enlaces y elementos de organización como div, header y footer.
+Luego agregué la visualización de datos mediante una imagen del gráfico que representa la información desarrollada en la crónica, con el objetivo de complementar la lectura de la historia. Finalmente revisé la estrctura del sitio y publiqué la páagina utilizando GitHub Pages.
 
-Finlamente publiqué el sitio mediante Github Pages
 
 ## Sitio publicado
 
-
+https://farahjadue.github.io/tarea1farah/
