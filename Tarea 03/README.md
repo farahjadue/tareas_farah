@@ -13,14 +13,14 @@ La página contiene:
 
 - Una crónica periodística.
 
-- Una visualización de datos con una imágen del gráfico como apoyo visual.
+- Una visualización de datos con una imagen del gráfico como apoyo visual.
 
 - Un enlace de la fuente original de la información utilizada.
 
 ## Proceso
-Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriorimente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'header' y 'footer'.
+Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriormente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'header' y 'footer'.
 
-Luego agregué la visualización de datos mediante una imagen del gráfico que representa la información desarrollada en la crónica, con el objetivo de complementar la lectura de la historia. Finalmente revisé la estrctura del sitio y publiqué la páagina utilizando GitHub Pages.
+Luego agregué la visualización de datos mediante una imagen del gráfico que representa la información desarrollada en la crónica, con el objetivo de complementar la lectura de la historia. Finalmente revisé la estructura del sitio y publiqué la página utilizando GitHub Pages.
 
 
 ## Sitio publicado
