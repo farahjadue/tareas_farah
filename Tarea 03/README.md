@@ -17,6 +17,7 @@ La página contiene:
 
 - Un enlace de la fuente original de la información utilizada.
 
+
 ## Proceso
 Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriormente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'header' y 'footer'.
 
