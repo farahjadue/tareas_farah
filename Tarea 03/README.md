@@ -19,7 +19,7 @@ La página contiene:
 
 
 ## Proceso
-Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriormente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'header' y 'footer'.
+Para desarrollar esta entrega utilicé como base la crónica realizada en la entrega 3. Posteriormente organicé el contenido mediante etiquetas HTML, incorporando encabezados, párrafos, imágenes, un enlace y elementos estructurales como 'div', 'header' y 'footer'.
 
 Luego agregué la visualización de datos mediante una imagen del gráfico que representa la información desarrollada en la crónica, con el objetivo de complementar la lectura de la historia. Finalmente revisé la estructura del sitio y publiqué la página utilizando GitHub Pages.
 
